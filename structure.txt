@@ -1,0 +1,10 @@
+movie_recommender/
+│
+├── app.py                         # Main Streamlit app
+├── recommender.py                 # ML logic: data loading, preprocessing, and KNN model
+├── data/
+│   └── movies.csv                 # Dataset with title, genre, language, theme
+├── static/
+│   └── background.jpg  
+├── utils.py                       # Helper functions (optional formatting, etc.)
+└── requirements.txt               # Required Python packages
