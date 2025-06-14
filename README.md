@@ -120,18 +120,6 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-If you'd like to suggest improvements, fix bugs, or extend functionality:
-
-1. Fork the repository
-2. Create a new branch (`feature/your-feature`)
-3. Commit your changes
-4. Push to your fork
-5. Submit a pull request 🚀
-
----
 
 ## 📜 License
 
