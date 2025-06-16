@@ -5,7 +5,7 @@ Welcome to the **Movie Recommender System** – a web application that helps use
 ---
 
 ## 🌐 Demo
-![Launch App🚀]https://moviestar-nandini.streamlit.app/
+Launch App🚀: https://moviestar-nandini.streamlit.app/
 
 ![image](https://github.com/user-attachments/assets/c01d3fdc-68ef-4eea-b680-e3f9e7397890)
 
